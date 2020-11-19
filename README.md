@@ -17,6 +17,9 @@ Este projeto foi construído com as tecnologias:
 |java jdk      |8            |[docs](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)                |
 |spring boot   |2            |[docs](https://docs.spring.io/spring-framework/docs/5.1.0.RELEASE/spring-framework-reference/)       |
 
+Para rodar o projeto é necessário ter o maven instalado e o java, além de um banco de dados rodando no postgres.
+Para configurar o banco, basta editar as configurações `aplication.properties` e depois na pasta raiz basta rodar `mvn spring-boot:run`.
+
 #### Author
 
 Geisson Mateus da Silva
