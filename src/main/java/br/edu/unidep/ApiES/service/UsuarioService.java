@@ -14,10 +14,10 @@ public class UsuarioService {
     UsuarioRepository repository;
 
     public Usuario findByEmail(String email) {
-        List<Usuario> usuarios = repository.findByEmail(email);
-        if(usuarios.isEmpty()) {
+        List<Usuario> users = repository.findByEmail(email);
+        if(users.isEmpty()) {
             return null;
         }
-        return usuarios.get(0);
+        return users.get(0);
     }
 }
