@@ -18,7 +18,7 @@ Este projeto foi construído com as tecnologias:
 |--------------|-------------|-----------------------------------------------------------------------------------------------------|
 |postgresql    |11           |[docs](https://www.postgresql.org/download/)                                                         |
 |java jdk      |8            |[docs](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)                |
-|spring boot   |8            |[docs](https://docs.spring.io/spring-framework/docs/5.1.0.RELEASE/spring-framework-reference/)       |
+|spring boot   |2            |[docs](https://docs.spring.io/spring-framework/docs/5.1.0.RELEASE/spring-framework-reference/)       |
 
 #### Author
 
