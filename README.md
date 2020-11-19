@@ -10,9 +10,6 @@ Destro deste projeto podemos observar as seguintes funcionalidades:
 ![](https://bgasparotto.com/wp-content/uploads/2017/12/spring-boot-logo.png)
 
 Este projeto foi construído com as tecnologias:
-- postgresql versão 11 [download](https://www.postgresql.org/download/)
-- java 8 [jdk8](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)
-- [spring boot](https://docs.spring.io/spring-framework/docs/5.1.0.RELEASE/spring-framework-reference/)
 
 |Tecnologia    |Versão       |Link                                                                                                 |
 |--------------|-------------|-----------------------------------------------------------------------------------------------------|
