@@ -16,6 +16,7 @@ Este projeto foi construído com as tecnologias:
 |postgresql    |11           |[docs](https://www.postgresql.org/download/)                                                         |
 |java jdk      |8            |[docs](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)                |
 |spring boot   |2            |[docs](https://docs.spring.io/spring-framework/docs/5.1.0.RELEASE/spring-framework-reference/)       |
+|Maven         |3.3.6        |[docs](https://www.apache.org/)                                                                      | 
 
 Para rodar o projeto é necessário ter o maven instalado e o java, além de um banco de dados rodando no postgres.
 Para configurar o banco, basta editar as configurações `aplication.properties` e depois na pasta raiz basta rodar `mvn spring-boot:run`.
